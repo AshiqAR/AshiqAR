@@ -7,6 +7,7 @@
 - 💬 Ask me about 
 - 😄 Pronouns: ...
 - 📫 How to reach me: ashiqar2002@gmail.com
+https://skillicons.dev
 - ⚡ Fun fact: ...
 -->
 
@@ -21,7 +22,7 @@
 
 <h3>Languages and Tools</h3>
 <p>
-  <a href="https://skillicons.dev">
+  <a href="">
     <img width=70% src="https://skillicons.dev/icons?i=react,html,css,bootstrap,py,c,java,cpp,js,git,github,postgres,linux,vscode" />
   </a>
 </p>
