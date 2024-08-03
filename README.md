@@ -17,8 +17,7 @@
  </h1>
  
 <!-- <h3 align="center">A passionate Programmer and Front-End Developer</h3> -->
-- ⚡ B.Tech Student with a strong passion for programming and problem-solving.
-- 🌱 Currently focusing on expanding skills in **React.js** and building interactive web applications
+- ⚡ B.Tech Graduate with a strong passion for programming and problem-solving.
 
 <h3>Languages and Tools</h3>
 <p>
